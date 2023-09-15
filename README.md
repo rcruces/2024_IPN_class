@@ -1,1 +1,2 @@
-# 2023_IPN_class
+# 2023 IPN class
+Basic walkthrough the usage and the outputs of `micapipe`.
